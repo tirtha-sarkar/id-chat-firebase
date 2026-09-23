@@ -38,10 +38,13 @@ It does NOT send a cellular SMS to a phone number. Cellular SMS requires an SMS 
 Web push needs HTTPS and browser notification permission. Firebase documents FCM Web support and its service-worker requirements:
 https://firebase.google.com/docs/cloud-messaging/web/get-started
 
-##Outpur
-<img width="954" height="708" alt="image" src="https://github.com/user-attachments/assets/1be4d2ce-8bb6-4ef7-b3c3-26dbbdea3a72" />
-<img width="1894" height="1024" alt="image" src="https://github.com/user-attachments/assets/cd86a9a9-aa38-46af-a6bf-3372598a45ab" />
-<img width="1900" height="1029" alt="image" src="https://github.com/user-attachments/assets/48d1c01a-0d57-4b7e-a12a-ac3761aae0e5" />
+##Output
+
+<img width="954" height="708" alt="Screenshot 2026-09-23 153722" src="https://github.com/user-attachments/assets/d3e25e75-368e-4e20-8b76-b7d577d0d221" />
+<img width="1900" height="1029" alt="Screenshot 2026-09-23 154037" src="https://github.com/user-attachments/assets/cace98f2-c4aa-432e-ac8d-7c627ea852d1" />
+<img width="1894" height="1024" alt="Screenshot 2026-09-23 153937" src="https://github.com/user-attachments/assets/b5e05e30-5e21-4285-9771-7bb2925bc9d0" />
+
+
 
 
 ## One important backend step not included
