@@ -40,9 +40,8 @@ https://firebase.google.com/docs/cloud-messaging/web/get-started
 
 ##Output
 
-<img width="954" height="708" alt="Screenshot 2026-09-23 153722" src="https://github.com/user-attachments/assets/d3e25e75-368e-4e20-8b76-b7d577d0d221" />
-<img width="1900" height="1029" alt="Screenshot 2026-09-23 154037" src="https://github.com/user-attachments/assets/cace98f2-c4aa-432e-ac8d-7c627ea852d1" />
-<img width="1894" height="1024" alt="Screenshot 2026-09-23 153937" src="https://github.com/user-attachments/assets/b5e05e30-5e21-4285-9771-7bb2925bc9d0" />
+<img width="954" height="708" alt="Screenshot 2026-09-23 153722" src="https://github.com/user-attachments/assets/d20e91a4-b366-4ff2-ba9c-03be005eaf49" />
+
 
 
 
