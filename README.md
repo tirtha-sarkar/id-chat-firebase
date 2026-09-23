@@ -38,6 +38,12 @@ It does NOT send a cellular SMS to a phone number. Cellular SMS requires an SMS 
 Web push needs HTTPS and browser notification permission. Firebase documents FCM Web support and its service-worker requirements:
 https://firebase.google.com/docs/cloud-messaging/web/get-started
 
+##Outpur
+<img width="954" height="708" alt="image" src="https://github.com/user-attachments/assets/1be4d2ce-8bb6-4ef7-b3c3-26dbbdea3a72" />
+<img width="1894" height="1024" alt="image" src="https://github.com/user-attachments/assets/cd86a9a9-aa38-46af-a6bf-3372598a45ab" />
+<img width="1900" height="1029" alt="image" src="https://github.com/user-attachments/assets/48d1c01a-0d57-4b7e-a12a-ac3761aae0e5" />
+
+
 ## One important backend step not included
 For a production chat notification, when User A writes a message, a trusted server/Cloud Function should look up User B's FCM token and send an FCM notification. Do NOT put Firebase Admin credentials in React/browser code.
 
